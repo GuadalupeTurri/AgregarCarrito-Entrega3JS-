@@ -1,0 +1,40 @@
+#cart{
+    font-weight: bold;
+  background-color: pink;
+  font-size: 30px;
+  border-radius: 30px;
+
+}
+button{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+*{
+   padding: 0;
+    text-align: center;
+
+
+}
+
+ div{
+    background-image: url(./img/bons-e-pe-imprime-o-fundo-do-teste-padrao_1374-18.avif);
+    border-radius: 50%;
+   
+ }
+
+ h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+ }
+ p{
+    font-size: 30px;
+ }
+ body{
+    background-color: black;
+ }
+ h2{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
