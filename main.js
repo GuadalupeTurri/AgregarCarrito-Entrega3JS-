@@ -5,7 +5,7 @@
     const cartItemsContainer = document.getElementById("cart-items");
 
     const productos = [
-        { id: 1, nombre: 'Collar', precio: 8000 },
+        { id: 1, nombre: 'Collar', precio: 8000,},
         { id: 2, nombre: 'Cama', precio: 30000 },
         { id: 3, nombre: 'Juguete', precio: 10000 },
         { id: 4, nombre: 'Correa', precio: 5000 },
